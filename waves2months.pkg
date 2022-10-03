@@ -1,12 +1,3 @@
-v 3
-d waves2months
-d Program to add calendar months to UAS waves
-d Marshall Garland, University of Southern California.
-d Distribution-Date: 2 October 2022
-f waves2months.ado
-f wavecodes.xlsx
-
-
 d 'waves2months': Program to add calendar months to UAS waves.
 d
 d waves2months is a program for affixing friendly labels to UAS wave administration variables.
