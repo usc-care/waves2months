@@ -1,8 +1,25 @@
 v 3
 d waves2months
 d Program to add calendar months to UAS waves
-d Marshall Garland, University of Southern California. 
+d Marshall Garland, University of Southern California.
 d Distribution-Date: 2 October 2022
 f waves2months.ado
 f wavecodes.xlsx
-f waves2months.sthlp
+
+
+d 'waves2months': Program to add calendar months to UAS waves.
+d
+d waves2months is a program for affixing friendly labels to UAS wave administration variables.
+d
+d KW: Data management
+d
+d Requires: Stata version 9.2
+d
+d Distribution-Date: 20221003
+d
+d Author: Marshall Garland
+d	  Research Scientist,
+d	  University of Southern California
+d Author Email : garlandm @t usc [dot] edu
+d
+f waves2months.ado
