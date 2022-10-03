@@ -4,3 +4,4 @@ d
 d Marshall Garland, University of Southern California, Los Angeles, CA.
 
 f waves2months [The waves2months.ado program for attaching month labels]
+p waves2months
