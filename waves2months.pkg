@@ -1,0 +1,8 @@
+v 3
+d waves2months
+d Program to add calendar months to UAS waves
+d Marshall Garland, University of Southern California. 
+d Distribution-Date: 2 October 2022
+f waves2months.ado
+f wavecodes.xlsx
+f waves2months.sthlp
