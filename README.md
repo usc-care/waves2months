@@ -15,7 +15,7 @@ You must supply a variable containing the name of the variable containing the su
 Variable containing the survey start date for each respondent.
 ### `end`
 Variable containing the survey end date for each respondent.
-### `genearte`
+### `wavemonths`
 New variable with the calendar months in which each wave was administered attached. The value label adopts the same name as the new variable.
 ## Options (optional)
 ### `replace`
